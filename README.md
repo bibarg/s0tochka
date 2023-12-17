@@ -1,6 +1,7 @@
-<h2><b>Information about the bot:</b></h2>
-Written in Python 3 </br>
-Uses libraries: pyTelegramBotAPI
+<h2><b>Information about the project:</b></h2>
+This is a telegram game bot for creating your own pyramid game. </br>
+Written in Python 3. </br>
+Uses libraries: pyTelegramBotAPI.
 
 <h2><b>Installing Linux:</b></h2>
 Updating and installing libraries: </br>
