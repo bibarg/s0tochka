@@ -5,9 +5,9 @@ Uses libraries: pyTelegramBotAPI.
 
 <h2><b>Installing Linux:</b></h2>
 Updating and installing libraries: </br>
-	- sudo apt update </br>
- 	- sudo apt-get install python3-pip </br>
-  	- pip3 install pyTelegramBotAPI </br>
+	`sudo apt update` </br>
+ 	`sudo apt-get install python3-pip` </br>
+  	`pip3 install pyTelegramBotAPI` </br>
 
 I advise you to use tmux to install it, write: <b>apt install tmux</b> </br>
 after: <b>tmux newsbot</b> (this will create a new session), you can then launch the bot.
@@ -15,8 +15,9 @@ after: <b>tmux newsbot</b> (this will create a new session), you can then launch
 <h2><b>Installing Windows:</b></h2>
 - Python 3 version is needed </br>
 Updating and installing libraries: </br>
-- pip install pyTelegramBotAPI </br>
-- To run, go to the directory with the script and write: python main.py
+` pip install pyTelegramBotAPI` </br>
+- To run, go to the directory with the script and write: </br>
+ `python main.py`
 
 <h2><b>Launching the bot:</b></h2>
 Go to the directory with the bot and register: python 3 main.py
