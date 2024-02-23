@@ -15,7 +15,7 @@ after: <b>tmux newsbot</b> (this will create a new session), you can then launch
 <h2><b>Installing Windows:</b></h2>
 - Python 3 version is needed </br>
 Updating and installing libraries: </br>
-` pip install pyTelegramBotAPI` </br>
+`pip install pyTelegramBotAPI` </br>
 - To run, go to the directory with the script and write: </br>
  `python main.py`
 
